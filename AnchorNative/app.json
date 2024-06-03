@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "AnchorUni",
-    "slug": "AnchorUni",
+    "name": "AnchorNative",
+    "slug": "AnchorNative",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "myapp",
+    "scheme": "AnchorNative",
     "userInterfaceStyle": "automatic",
     "splash": {
       "image": "./assets/images/splash.png",
